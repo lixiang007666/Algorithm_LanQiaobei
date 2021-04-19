@@ -1,0 +1,2 @@
+hh={}
+print(type(hh))
